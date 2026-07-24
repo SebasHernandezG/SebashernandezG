@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=%C2%A1Hola%2C%20soy%20Sebas!&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header Banner" />
 
-# 👋 Sebastián Hernández
+#  Sebastián Hernández
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+en+construcci%C3%B3n;Backend+con+PHP+y+Laravel;Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;C%C3%B3digo+limpio%2C+escalable+y+con+prop%C3%B3sito" alt="Typing SVG" />
 
