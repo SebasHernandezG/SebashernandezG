@@ -101,8 +101,6 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 
 <img src="https://skillicons.dev/icons?i=php,laravel,composer,xampp,laragon&theme=dark" alt="Backend y desarrollo web" />
 
-![Laravel Herd](https://img.shields.io/badge/Laravel%20Herd-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
 <br><br>
 
 <img width="70%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=2&section=header" alt="Gradient Divider" />
@@ -110,10 +108,6 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 ### 🗄️ Bases de datos
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,cassandra&theme=dark" alt="Bases de datos" />
-
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 <br><br>
 
@@ -123,16 +117,21 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Herramientas y entornos" />
 
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
-
 <br><br>
 
 <img width="70%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" alt="Gradient Divider" />
 
-### 🤖 Inteligencia Artificial
+### 🧩 Otras herramientas
 
-![IA](https://img.shields.io/badge/Inteligencia%20Artificial-412991?style=flat-square&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+<sub>No disponibles como ícono en skillicons.dev, por eso van aparte:</sub>
+
+<br><br>
+
+![Laravel Herd](https://img.shields.io/badge/Laravel%20Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligencia%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 </div>
 
