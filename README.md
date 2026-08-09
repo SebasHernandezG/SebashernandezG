@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=%C2%A1Hola%2C%20soy%20Sebas!&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header Banner" />
 
-#  Sebastián Hernández
+# Sebastián Hernández
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+en+construcci%C3%B3n;Backend+con+PHP+y+Laravel;Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;C%C3%B3digo+limpio%2C+escalable+y+con+prop%C3%B3sito" alt="Typing SVG" />
 
@@ -68,8 +68,9 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 |---|---|
 | 🔭 **Enfoque actual** | TypeScript y arquitecturas de software escalables |
 | 🛠️ **Especialidad** | Desarrollo backend con PHP y Laravel |
-| 💻 **Entornos de trabajo** | Laragon, XAMPP, Laravel Herd |
-| 🗄️ **Bases de datos** | MySQL, PostgreSQL, SQL Server, Cassandra |
+| 💻 **Entornos de trabajo** | Visual Studio Code, NetBeans y Laravel Herd |
+| 🗄️ **Bases de datos** | MySQL, PostgreSQL, SQL Server y Cassandra |
+| 🐘 **Administración de BD** | pgAdmin |
 | 📮 **Pruebas de API** | Postman |
 | 🤖 **Apoyo en el desarrollo** | Inteligencia Artificial |
 
@@ -91,7 +92,7 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 
 ### 💻 Lenguajes de programación
 
-<img src="https://skillicons.dev/icons?i=java,py,cpp,ts&theme=dark" alt="Lenguajes" />
+<img src="https://skillicons.dev/icons?i=java,py,cpp,ts&theme=dark" alt="Java, Python, C++ y TypeScript" />
 
 <br><br>
 
@@ -99,7 +100,7 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 
 ### 🌐 Backend y desarrollo web
 
-<img src="https://skillicons.dev/icons?i=php,laravel,composer,xampp,laragon&theme=dark" alt="Backend y desarrollo web" />
+<img src="https://skillicons.dev/icons?i=php,laravel,html,css,js&theme=dark" alt="PHP, Laravel, HTML, CSS y JavaScript" />
 
 <br><br>
 
@@ -107,7 +108,12 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 
 ### 🗄️ Bases de datos
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,cassandra&theme=dark" alt="Bases de datos" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,cassandra&theme=dark" alt="MySQL, PostgreSQL y Cassandra" />
+
+<br><br>
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br><br>
 
@@ -115,7 +121,12 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 
 ### 🔧 Herramientas y entornos
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Herramientas y entornos" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code y Postman" />
+
+<br><br>
+
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Laravel Herd](https://img.shields.io/badge/Laravel%20Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 <br><br>
 
@@ -123,13 +134,6 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 
 ### 🧩 Otras herramientas
 
-<sub>No disponibles como ícono en skillicons.dev, por eso van aparte:</sub>
-
-<br><br>
-
-![Laravel Herd](https://img.shields.io/badge/Laravel%20Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![IA](https://img.shields.io/badge/Inteligencia%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
@@ -146,7 +150,7 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 | TypeScript | 🟡 Aprendiendo | Aplicar tipado estático en proyectos reales |
 | Laravel avanzado | 🟡 Practicando | Desarrollar APIs REST robustas y mantenibles |
 | MySQL | 🟢 Consolidado | Optimizar consultas y diseñar relaciones complejas |
-| PostgreSQL | 🟡 Practicando | Modelar datos relacionales con pg |
+| PostgreSQL | 🟡 Practicando | Modelar datos relacionales con PostgreSQL |
 | SQL Server | 🟡 Aprendiendo | Administrar y consultar bases de datos empresariales |
 | Cassandra | 🟡 Aprendiendo | Explorar bases de datos NoSQL distribuidas |
 | Arquitectura de software | 🟡 En progreso | Diseñar aplicaciones desacopladas y escalables |
@@ -161,9 +165,9 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 <div align="center">
 
 ```
-→  El código limpio no es un lujo, es un estándar.
-→  Si no lo puedes explicar, no lo entendiste del todo.
-→  Un proyecto pequeño bien hecho vale más que diez a medias.
+→ El código limpio no es un lujo, es un estándar.
+→ Si no lo puedes explicar, no lo entendiste del todo.
+→ Un proyecto pequeño bien hecho vale más que diez a medias.
 ```
 
 </div>
@@ -181,6 +185,7 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 </picture>
 
 </div>
+
 <br>
 
 <div align="center">
