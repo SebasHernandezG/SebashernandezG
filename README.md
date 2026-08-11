@@ -122,9 +122,6 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 <img width="70%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" alt="Gradient Divider" />
 
 ### 🧩 Otras herramientas
-
-<sub>No disponibles como ícono en skillicons.dev, por eso van aparte:</sub>
-
 <br><br>
 
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
