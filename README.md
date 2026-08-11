@@ -99,7 +99,7 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 
 ### 🌐 Backend y desarrollo web
 
-<img src="https://skillicons.dev/icons?i=php,laravel,composer,xampp,laragon&theme=dark" alt="Backend y desarrollo web" />
+<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="Backend y desarrollo web" />
 
 <br><br>
 
@@ -107,7 +107,7 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 
 ### 🗄️ Bases de datos
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,cassandra&theme=dark" alt="Bases de datos" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,cassandra,mongodb&theme=dark" alt="Bases de datos" />
 
 <br><br>
 
@@ -115,7 +115,7 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 
 ### 🔧 Herramientas y entornos
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Herramientas y entornos" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma&theme=dark" alt="Herramientas y entornos" />
 
 <br><br>
 
@@ -127,9 +127,12 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 
 <br><br>
 
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge)
+![Laragon](https://img.shields.io/badge/Laragon-24A4E8?style=for-the-badge)
 ![Laravel Herd](https://img.shields.io/badge/Laravel%20Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge)
 ![IA](https://img.shields.io/badge/Inteligencia%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
