@@ -130,7 +130,6 @@ Desarrollador **Full Stack en formación**, con enfoque principal en **desarroll
 ![Laravel Herd](https://img.shields.io/badge/Laravel%20Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge)
-![IA](https://img.shields.io/badge/Inteligencia%20Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 </div>
