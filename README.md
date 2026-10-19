@@ -54,6 +54,18 @@
 
 ---
 
+<h3 align="center">Actividad en GitHub</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SebasHernandezG/SebashernandezG/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SebasHernandezG/SebashernandezG/output/snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/SebasHernandezG/SebashernandezG/output/snake.svg" alt="Gusanito animado recorriendo mis contribuciones en GitHub" />
+  </picture>
+</div>
+
+<br>
+
 <p align="center">
   <img width="100%" src="./assets/japon.svg" alt="Jardín japonés nocturno en pixel art" />
 </p>
