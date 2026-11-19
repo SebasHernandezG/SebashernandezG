@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./assets/banner.svg" alt="Sebastián Hernández: desarrollo backend con PHP y Laravel, sobre un paisaje japonés en pixel art" />
+  <img width="100%" src="./assets/banner.png" alt="Sebastián Hernández: Full Stack Developer, backend con PHP y Laravel" />
 </div>
 
 <h2 align="center">Hola, soy Sebastián Hernández</h2>
